@@ -13,4 +13,4 @@ This example has been extended to:
 'helperRISSurface' is used in the example, thus the 'IRS_sub_rand.m' file should be located on the same path with 'MATLAB/Examples/R2023b/phased/IntroductionToRISExample'.
 
 ## References
-[1] J. Angjo, A. Zubow and F. Dressler, "Coexistence Challenges in IRS-assisted Multi-Operator Networks," Proceedings of IEEE Global Telecommunications Conference (GLOBECOM 2023), 4th Workshop on Emerging Topics in 6G Communications (6GComm), Kuala Lumpur, Malaysia, December 2023. (to appear) \
+[1] (https://www.tkn.tu-berlin.de/team/angjo/publications/) J. Angjo, A. Zubow and F. Dressler, "Coexistence Challenges in IRS-assisted Multi-Operator Networks," Proceedings of IEEE Global Telecommunications Conference (GLOBECOM 2023), 4th Workshop on Emerging Topics in 6G Communications (6GComm), Kuala Lumpur, Malaysia, December 2023. (to appear) \
