@@ -7,6 +7,7 @@ While in [1] the environment is represented in the 2-D space, the example allows
 
 This example has been extended to:
 - 'Random Assignments' - which computes the sum rate of the whole network of operators randomly assigned to a subsurface.
+- Simple Assignment of operators one after another, such that the impact of unwanted reflections is minimized.
  
 
 ## System specification:
